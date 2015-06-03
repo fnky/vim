@@ -10,4 +10,4 @@ Bundles are installed using Vundle.
 
 Simply clone
 
-  $ git clone https://github.com/fnky/vim.git ~
+    $ git clone https://github.com/fnky/vim.git ~
